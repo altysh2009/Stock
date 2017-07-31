@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">صقر الاسهم</string>
+    <string name="add_floating_bottom">تستخدم لاضافه الاسهم</string>
+    <string name="appwidget_text">لا يوجد بيانات محمله</string>
+    <string name="dialog_add">اضافه</string>
+    <string name="dialog_cancel">الغاء</string>
+    <string name="dialog_title">اضافه السهم</string>
+    <string name="error_no_network">لا يوجد اتصال الانترنت سيتم تحميل البيانات عند الاتصال</string>
+    <string name="error_no_stocks">"لا يوجد اسهم اضغط على الزر لاضافه "</string>
+    <string name="line_chart_descrption">رسم بيانى لتاريخ السهم</string>
+    <string name="network_error">افحص اتصالك بالانترنت</string>
+    <string name="no_history">لم يتم تحميل البيانات القديمه تحقق من تحديث البرنامج</string>
+    <string name="toast_no_connectivity">سيتم العمل عند تشغيل الانترنت</string>
+    <string name="toast_stock_added_no_connectivity">" اضيف سيتم التحمبل عند وجود انترنت%s الرمز"</string>
+</resources>

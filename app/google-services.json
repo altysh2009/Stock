@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77165267750",
+    "firebase_url": "https://stockhawk-master-6071c.firebaseio.com",
+    "project_id": "stockhawk-master-6071c",
+    "storage_bucket": "stockhawk-master-6071c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77165267750:android:9808a16399a49d6e",
+        "android_client_info": {
+          "package_name": "com.udacity.stockhawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77165267750-vgpdbaoidpp5rfqo6nb5o3fa5r2cnnbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.stockhawk",
+            "certificate_hash": "e8bd262e3972b18447d9b7ccc95b1be82101d24b"
+          }
+        },
+        {
+          "client_id": "77165267750-ap011ef470auekna45klsceqcbalvqk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6mnMFDakujL_VRmV84Asu5iMNYXWuoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77165267750-ap011ef470auekna45klsceqcbalvqk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
